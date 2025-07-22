@@ -27,3 +27,6 @@ This work is licensed under a
 
 ## Schematic of the module
 ![Schematic](/pictures_and_schematic/schematic.png)
+
+## Disclaimer
+Use at your own risk !
