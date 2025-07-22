@@ -2,7 +2,23 @@
 ESPHome module for P1 port power meter readings for use with Home Assistant.
 Code is based on Slimmelezer ESPhome code. Functionality of the module is the same, this is just even more Slim :)
 
+Production data is available - but please respect the license !
+
+If you like then please
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://bmc.link/nic6911w)
+
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+---
 
 ## Pictures of the module
 ![Pic1](/pictures_and_schematic/20240629_184906792_iOS.jpg)
